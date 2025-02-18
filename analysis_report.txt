@@ -1,0 +1,16 @@
+Total de quadros: 3326
+Rostos detectados: 1177
+Anomalias na detecção de rostos: 0
+Emoções detectadas:
+fear: 137
+surprise: 179
+sad: 76
+happy: 527
+neutral: 247
+angry: 11
+Atividades detectadas:
+standing: 71
+sitting: 1118
+dancing: 0
+laying: 0
+Anomalias na detecção de atividades: 2137
